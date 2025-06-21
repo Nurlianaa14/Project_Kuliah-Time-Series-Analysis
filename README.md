@@ -1,7 +1,10 @@
 # Summary
 ●	Collected and analyzed historical data to forecast particulate matter concentration (PM2.5) at Bundaran HI.
+
 ●	Identified, estimated, and diagnosed the ARIMA model using R.
+
 ●	Compared the forecasting accuracy of the ARIMA and Simple Moving Average (SMA) methods.
+
 ●	Both models demonstrated forecasting accuracy below 15%, indicating good predictive performance.
 
 ## Time Series Analysis
