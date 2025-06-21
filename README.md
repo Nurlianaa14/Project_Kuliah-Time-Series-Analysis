@@ -1,11 +1,11 @@
 # Summary
-●	Collected and analyzed historical data to forecast particulate matter concentration (PM2.5) at Bundaran HI.
+● Mengumpulkan dan menganalisis data historis untuk meramalkan konsentrasi partikel debu (PM2.5) di Bundaran HI.
 
-●	Identified, estimated, and diagnosed the ARIMA model using R.
+● Mengidentifikasi, mengestimasi, dan mendiagnosis model ARIMA menggunakan R.
 
-●	Compared the forecasting accuracy of the ARIMA and Simple Moving Average (SMA) methods.
+● Membandingkan akurasi peramalan antara metode ARIMA dan Simple Moving Average (SMA).
 
-●	Both models demonstrated forecasting accuracy below 15%, indicating good predictive performance.
+● Kedua model menunjukkan akurasi peramalan di bawah 15%, yang mengindikasikan performa prediktif yang baik.
 
 ## Time Series Analysis
 
